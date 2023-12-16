@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Euler.sln",
+    "cmake.configureOnOpen": false
+}
