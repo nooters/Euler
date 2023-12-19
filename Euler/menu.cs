@@ -24,6 +24,9 @@ internal class Menu
                     case 2:
                         problem2.Main2();
                         break;
+                    case 3:
+                        problem3.Main3();
+                        break;
                     default:
                         break;
                 }
@@ -32,7 +35,7 @@ internal class Menu
             {
                 break;
             }
-        } while (problem != null);
+        } while (true);
         
     }
 }
